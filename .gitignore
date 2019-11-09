@@ -1,0 +1,6 @@
+# Ignore README file
+README.md
+
+# Ignore build directory
+build/
+.idea/
